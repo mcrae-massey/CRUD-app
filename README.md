@@ -1,5 +1,5 @@
 # CRUD-app
-Simple Symfony 4 CRUD application
+Simple Symfony 4 CRUD application created with xampp. Using MYSQL and TWIG.
 
 ### Installation
 
